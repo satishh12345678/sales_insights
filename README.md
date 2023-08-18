@@ -1,6 +1,6 @@
 # Sales Insights Dashboard | Self Project   
 
-### NAME - SACHIN GUPTA
+### NAME - SATISH PATEL
 
 Dashboard created with three Pages
 
